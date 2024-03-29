@@ -1,0 +1,12 @@
+paralleltesting\ParallelTest1.class
+com\marketing\TC2.class
+com\marketing\DependencyExample.class
+com\marketing\ParameterExample.class
+com\marketing\AppTest.class
+com\marketing\CustomDataProvider.class
+com\marketing\TC_Login.class
+com\marketing\GroupingExample.class
+com\marketing\AssertionsExample.class
+com\marketing\TC1.class
+com\marketing\DataProviderExample.class
+com\marketing\PriorityExample.class
